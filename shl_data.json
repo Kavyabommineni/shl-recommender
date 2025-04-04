@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Numerical Reasoning Test",
+    "url": "https://www.shl.com/shldirect/en/assessments/numerical-reasoning",
+    "remote": "Yes",
+    "adaptive": "Yes",
+    "duration": "20 minutes",
+    "type": "Cognitive",
+    "description": "Assesses numerical analysis and problem-solving skills using graphs and data."
+  },
+  {
+    "name": "Personality Questionnaire",
+    "url": "https://www.shl.com/shldirect/en/assessments/personality",
+    "remote": "Yes",
+    "adaptive": "No",
+    "duration": "25 minutes",
+    "type": "Behavioral",
+    "description": "Measures workplace personality traits to determine cultural fit."
+  },
+  {
+    "name": "Verbal Reasoning Test",
+    "url": "https://www.shl.com/shldirect/en/assessments/verbal-reasoning",
+    "remote": "Yes",
+    "adaptive": "Yes",
+    "duration": "19 minutes",
+    "type": "Cognitive",
+    "description": "Assesses verbal comprehension and logical thinking using written information."
+  },
+  {
+    "name": "Inductive Reasoning Test",
+    "url": "https://www.shl.com/shldirect/en/assessments/inductive-reasoning",
+    "remote": "Yes",
+    "adaptive": "Yes",
+    "duration": "25 minutes",
+    "type": "Cognitive",
+    "description": "Evaluates ability to identify patterns and logical rules in visual data."
+  },
+  {
+    "name": "Situational Judgement Test",
+    "url": "https://www.shl.com/shldirect/en/assessments/situational-judgement",
+    "remote": "Yes",
+    "adaptive": "No",
+    "duration": "30 minutes",
+    "type": "Behavioral",
+    "description": "Assesses decision-making and interpersonal skills through workplace scenarios."
+  },
+  {
+    "name": "Mechanical Comprehension Test",
+    "url": "https://www.shl.com/shldirect/en/assessments/mechanical-comprehension",
+    "remote": "Yes",
+    "adaptive": "No",
+    "duration": "35 minutes",
+    "type": "Technical",
+    "description": "Assesses understanding of mechanical concepts like force, motion, and tools."
+  },
+  {
+    "name": "Cognitive Ability Test",
+    "url": "https://www.shl.com/shldirect/en/assessments/cognitive-ability",
+    "remote": "Yes",
+    "adaptive": "Yes",
+    "duration": "30 minutes",
+    "type": "Cognitive",
+    "description": "Measures problem-solving, logical reasoning and pattern recognition."
+  },
+  {
+    "name": "Teamwork and Collaboration Test",
+    "url": "https://www.shl.com/shldirect/en/assessments/teamwork",
+    "remote": "Yes",
+    "adaptive": "No",
+    "duration": "20 minutes",
+    "type": "Behavioral",
+    "description": "Assesses ability to collaborate, communicate and work in a team."
+  },
+  {
+    "name": "Software Developer Technical Test",
+    "url": "https://www.shl.com/shldirect/en/assessments/software-developer",
+    "remote": "Yes",
+    "adaptive": "No",
+    "duration": "45 minutes",
+    "type": "Technical",
+    "description": "Evaluates coding proficiency in Python, JavaScript, and SQL."
+  },
+  {
+    "name": "Critical Thinking Test",
+    "url": "https://www.shl.com/shldirect/en/assessments/critical-thinking",
+    "remote": "Yes",
+    "adaptive": "Yes",
+    "duration": "30 minutes",
+    "type": "Cognitive",
+    "description": "Assesses analytical thinking and logic through arguments and conclusions."
+  }
+]

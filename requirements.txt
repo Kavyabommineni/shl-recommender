@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+pandas
+fastapi
+uvicorn
+sentence-transformers
+torch
